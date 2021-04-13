@@ -10,7 +10,7 @@
 
 from telethon.errors import ChatSendInlineForbiddenError
 
-from . import *
+from scorpion/plugin/import *.py
 
 REPOMSG = (
     "• **SCORPION USERBOT** •\n\n",
