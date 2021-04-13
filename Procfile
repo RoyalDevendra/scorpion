@@ -1,1 +1,1 @@
-SCORPION-USERBOT: python3 -m SCORPION
+SCORPION-USERBOT: python3 -m plugins
