@@ -8,7 +8,7 @@ from telethon import events, functions
 
 from telethon.tl.functions.users import GetFullUserRequest
 
-import scorpion-userbot.assistant.pmpermit_sql as pmpermit_sql
+import scorpion.assistant.pmpermit_sql as pmpermit_sql
 
 from scorpion import ALIVE_NAME, CMD_HELP, CUSTOM_PMPERMIT, bot
 
