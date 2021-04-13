@@ -14,7 +14,7 @@ from . import *
 
 REPOMSG = (
     "• **SCORPION USERBOT** •\n\n",
-    "• Repo - [Click Here](https://github.com/loverboyXD/Scorpion-userbot)\n",
+    "• Repo - [Click Here](https://github.com/loverboyXD/Scorpion)\n",
     "• Support - @scorpion_helpchat",
 )
 
