@@ -29,7 +29,7 @@ Remaining i will write later.
 
 ## DEPLOY YOUR OWN FROM HERE!!
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/loverboyXD/scorpion-userbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/loverboyXD/scorpion)
 
 ## SUPPORT 
 
